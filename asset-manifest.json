@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/safiq-s-monsters/static/css/main.e70cc1e5.chunk.css",
+    "main.js": "/safiq-s-monsters/static/js/main.ff91c2a6.chunk.js",
+    "main.js.map": "/safiq-s-monsters/static/js/main.ff91c2a6.chunk.js.map",
+    "runtime~main.js": "/safiq-s-monsters/static/js/runtime~main.275f5c14.js",
+    "runtime~main.js.map": "/safiq-s-monsters/static/js/runtime~main.275f5c14.js.map",
+    "static/js/2.5b4d1b28.chunk.js": "/safiq-s-monsters/static/js/2.5b4d1b28.chunk.js",
+    "static/js/2.5b4d1b28.chunk.js.map": "/safiq-s-monsters/static/js/2.5b4d1b28.chunk.js.map",
+    "index.html": "/safiq-s-monsters/index.html",
+    "precache-manifest.f77c89a56e6e611351c7dabafae1b1fe.js": "/safiq-s-monsters/precache-manifest.f77c89a56e6e611351c7dabafae1b1fe.js",
+    "service-worker.js": "/safiq-s-monsters/service-worker.js",
+    "static/css/main.e70cc1e5.chunk.css.map": "/safiq-s-monsters/static/css/main.e70cc1e5.chunk.css.map"
+  }
+}
